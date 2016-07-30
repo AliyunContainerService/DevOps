@@ -1,0 +1,5 @@
+nginx-v1:
+  image: 'registry.aliyuncs.com/ringtail/nginx:1.0'
+  labels:
+    aliyun.routing.port_80: nginx
+  restart: always
