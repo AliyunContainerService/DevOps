@@ -1,0 +1,6 @@
+nginx-v2:
+  image: 'registry.aliyuncs.com/ringtail/nginx:2.0'
+  labels:
+    aliyun.routing.coexist: true
+    aliyun.routing.port_80: nginx
+  restart: always
