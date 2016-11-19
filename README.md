@@ -2,7 +2,7 @@
 阿里云容器服务持续交付
 
 ## 阿里云容器服务DevOps云栖文章    
-<a href="https://yq.aliyun.com/articles/58414">DevOps与阿里云容器服务（一）</a>    
+<a href="https://yq.aliyun.com/articles/53928?spm=0.0.0.0.avgONJ&msgid=45336">DevOps与阿里云容器服务（一）</a>    
 <a href="https://yq.aliyun.com/articles/53936">DevOps与阿里云容器服务（二）</a>    
 <a href="https://yq.aliyun.com/articles/58414">DevOps与阿里云容器服务（三）</a>     
 <a href="https://yq.aliyun.com/articles/58906">DevOps与阿里云容器服务（四）</a>    
