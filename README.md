@@ -5,7 +5,8 @@
 <a href="https://yq.aliyun.com/articles/53928?spm=0.0.0.0.avgONJ&msgid=45336">DevOps与阿里云容器服务（一）</a>    
 <a href="https://yq.aliyun.com/articles/53936">DevOps与阿里云容器服务（二）</a>    
 <a href="https://yq.aliyun.com/articles/58414">DevOps与阿里云容器服务（三）</a>     
-<a href="https://yq.aliyun.com/articles/58906">DevOps与阿里云容器服务（四）</a>    
+<a href="https://yq.aliyun.com/articles/58906">DevOps与阿里云容器服务（四）</a>  
+<a href="https://yq.aliyun.com/articles/60154?spm=5176.100240.searchblog.13.22LCfh">DevOps与阿里云容器服务（五）</a>  
 <a href="https://yq.aliyun.com/articles/53971">使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建</a>     
 <a href="https://yq.aliyun.com/articles/61836">使用阿里云容器服务实现持续集成之GitLab篇</a>    
 <a href="https://yq.aliyun.com/articles/58422">容器服务slack运维机器人</a>     
