@@ -9,12 +9,12 @@
 <a href="https://yq.aliyun.com/articles/60154?spm=5176.100240.searchblog.13.22LCfh">DevOps与阿里云容器服务（五）</a>  
 
 ## InfoQ文章系列  
-<a href="http://www.infoq.com/cn/articles/CICDInCaaS-DeliveryPrinciple">基于容器服务的持续集成与云端交付（一）- 交付之禅</a>
+<a href="http://www.infoq.com/cn/articles/CICDInCaaS-DeliveryPrinciple">基于容器服务的持续集成与云端交付（一）- 交付之禅</a>       
 ## 其他
-<a href="https://yq.aliyun.com/articles/53971">使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建</a>     
-<a href="https://yq.aliyun.com/articles/61836">使用阿里云容器服务实现持续集成之GitLab篇</a>  
-<a href="https://yq.aliyun.com/articles/64970">使用阿里云容器服务Jenkins 2.0实现持续集成之Pipline篇</a>   
-<a href="https://yq.aliyun.com/articles/58422">容器服务slack运维机器人</a>   
+<a href="https://yq.aliyun.com/articles/53971">使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建</a>        
+<a href="https://yq.aliyun.com/articles/61836">使用阿里云容器服务实现持续集成之GitLab篇</a>     
+<a href="https://yq.aliyun.com/articles/64970">使用阿里云容器服务Jenkins 2.0实现持续集成之Pipline篇</a>      
+<a href="https://yq.aliyun.com/articles/58422">容器服务slack运维机器人</a>      
 
 
 
