@@ -12,6 +12,11 @@
 <a href="http://www.infoq.com/cn/articles/CICDInCaaS-DeliveryPrinciple">基于容器服务的持续集成与云端交付（一）- 交付之禅</a>   
 <a href="http://www.infoq.com/cn/articles/CICDInCaaS-ImproveCD">基于容器服务的持续集成与云端交付（二）- 多维度打磨交付能力</a>
 
+
+## Learn Jenkins the hard way 
+<a href="https://yq.aliyun.com/articles/70441?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (0)</a>        
+<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1)</a>     
+
 ## 其他
 <a href="https://yq.aliyun.com/articles/53971">使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建</a>        
 <a href="https://yq.aliyun.com/articles/61836">使用阿里云容器服务实现持续集成之GitLab篇</a>     
