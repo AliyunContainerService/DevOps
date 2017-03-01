@@ -16,8 +16,8 @@
 
 ## Learn Jenkins the hard way 
 <a href="https://yq.aliyun.com/articles/70441?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (0)</a>        
-<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1)</a>     
-
+<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1)</a>         
+<a href="https://yq.aliyun.com/articles/70751?spm=5176.8091938.0.0.80HaLc">Learn Jenkins the hard way (2)</a>      
 ## 其他
 <a href="https://yq.aliyun.com/articles/53971">使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建</a>        
 <a href="https://yq.aliyun.com/articles/61836">使用阿里云容器服务实现持续集成之GitLab篇</a>     
