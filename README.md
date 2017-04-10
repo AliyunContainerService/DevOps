@@ -38,5 +38,8 @@
 ## 旺旺支持群   
 1218814802，在群里可以得到最快速的响应。
 
+## 阿里云容器服务客户支持群
+<img src="https://g.alicdn.com/aliyun/cos/1.4.35/images/ding.png"/>
+
 ## 问题跟踪仓库    
 <a href="https://github.com/AliyunContainerService/Issues">仓库地址</a>      
