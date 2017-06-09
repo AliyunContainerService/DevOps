@@ -35,8 +35,6 @@
 
 <a href="https://github.com/AliyunContainerService/jenkins-slaves">前往仓库</a>
 
-## 旺旺支持群   
-1218814802，在群里可以得到最快速的响应。
 
 ## 阿里云容器服务客户支持群
 <img src="https://g.alicdn.com/aliyun/cos/1.4.35/images/ding.png"/>
