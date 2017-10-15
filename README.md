@@ -17,9 +17,9 @@
 
 ## Learn Jenkins the hard way 
 <a href="https://yq.aliyun.com/articles/70441?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (0) - Jenkins的罪与罚</a>        
-<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1) - 从源码运行Jenkins开始</a>         
-<a href="https://yq.aliyun.com/articles/70751?spm=5176.8091938.0.0.80HaLc">Learn Jenkins the hard way (2) - Stapler与Jelly</a>
-<a href="https://yq.aliyun.com/articles/224376">Learn Jenkins the hard way (3) - Jenkins的存储模型</a>
+<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1) - 从源码运行Jenkins开始</a>          
+<a href="https://yq.aliyun.com/articles/70751?spm=5176.8091938.0.0.80HaLc">Learn Jenkins the hard way (2) - Stapler与Jelly</a>      
+<a href="https://yq.aliyun.com/articles/224376">Learn Jenkins the hard way (3) - Jenkins的存储模型</a>       
 
 ## 其他
 <a href="https://yq.aliyun.com/articles/72703">使用阿里云容器服务Jenkins 2.0实现持续集成之the tag you want篇</a>     
