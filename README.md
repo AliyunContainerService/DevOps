@@ -16,9 +16,9 @@
 <a href="http://www.infoq.com/cn/articles/CICDInCaaS-CreateCDSystem-part05">基于容器服务的持续集成与云端交付（五）- 探究持续交付系统的本质</a>    
 
 ## Learn Jenkins the hard way 
-<a href="https://yq.aliyun.com/articles/70441?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (0) - Jenkins的罪与罚</a>             
-<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1) - 从源码运行Jenkins开始</a>          
-<a href="https://yq.aliyun.com/articles/70751?spm=5176.8091938.0.0.80HaLc">Learn Jenkins the hard way (2) - Stapler与Jelly</a>      
+<a href="https://yq.aliyun.com/articles/70441?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (0) - Jenkins的罪与罚</a>
+<a href="https://yq.aliyun.com/articles/70440?spm=5176.8091938.0.0.WaxFfA">Learn Jenkins the hard way (1) - 从源码运行Jenkins开始</a>
+<a href="https://yq.aliyun.com/articles/70751?spm=5176.8091938.0.0.80HaLc">Learn Jenkins the hard way (2) - Stapler与Jelly</a>
 <a href="https://yq.aliyun.com/articles/224376">Learn Jenkins the hard way (3) - Jenkins的存储模型</a>       
 
 ## 其他
