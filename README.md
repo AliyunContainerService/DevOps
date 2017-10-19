@@ -21,6 +21,10 @@
 <a href="https://yq.aliyun.com/articles/70751?spm=5176.8091938.0.0.80HaLc">Learn Jenkins the hard way (2) - Stapler与Jelly</a><br/>
 <a href="https://yq.aliyun.com/articles/224376">Learn Jenkins the hard way (3) - Jenkins的存储模型</a><br/>
 
+
+## 轻松玩转应用容器化系列  
+<a href="https://yq.aliyun.com/articles/225390?spm=5176.8091938.0.0.O5Btos" target="_blank"/>轻松玩转应用容器化（一）- 初识容器迁移工具Derrick</a>       
+
 ## 其他
 <a href="https://yq.aliyun.com/articles/72703">使用阿里云容器服务Jenkins 2.0实现持续集成之the tag you want篇</a>     
 <a href="https://yq.aliyun.com/articles/53971">使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建</a>       
