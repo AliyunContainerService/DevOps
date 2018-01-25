@@ -34,7 +34,7 @@
 <a href="https://yq.aliyun.com/articles/61836">使用阿里云容器服务实现持续集成之GitLab篇</a>       
 <a href="https://yq.aliyun.com/articles/64970">使用阿里云容器服务Jenkins 2.0实现持续集成之Pipline篇</a>      
 <a href="https://yq.aliyun.com/articles/58422">容器服务slack运维机器人</a>      
-
+<a href="https://yq.aliyun.com/articles/388546?msgid=4288034">Everything you should know about etcd</a>
 
 
 
