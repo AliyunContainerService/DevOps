@@ -49,7 +49,7 @@
 
 
 ## 阿里云容器服务客户支持群
-<img src="https://g.alicdn.com/aliyun/cos/1.4.35/images/ding.png"/>
+<img src="https://container-service.oss-cn-beijing.aliyuncs.com/ding.jpg"/>
 
 ## 问题跟踪仓库    
 <a href="https://github.com/AliyunContainerService/Issues">仓库地址</a>      
