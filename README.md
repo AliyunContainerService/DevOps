@@ -41,12 +41,16 @@
 
 <a href="https://github.com/ringtail/snout">容器性能调优工具Snout</a>
 
+<a href="https://github.com/jenkins-zh/jenkins-cli">Jenkins CLI</a>
 
 ## Jenkins slaves镜像仓库    
 目前支持java、nodejs、php、golang、python。后续会补充更多的版本     
 
 <a href="https://github.com/AliyunContainerService/jenkins-slaves">前往仓库</a>
 
+## Jenkins 国内插件更新中心源
+
+`http://updates.jenkins-zh.cn/update-center.json`
 
 ## 阿里云容器服务客户支持群
 <img src="https://container-service.oss-cn-beijing.aliyuncs.com/ding.jpg"/>
